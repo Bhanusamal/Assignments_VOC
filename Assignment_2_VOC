@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #e0f7fa, #f1f8e9);
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #d26565;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+            transition: transform 0.2s ease-in-out;
+        }
+
+        .card:hover {
+            transform: scale(1.02);
+        }
+
+        .card h2 {
+            color: #0288d1;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 1em;
+            color: #555;
+            margin: 6px 0;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 16px;
+            background-color: #0288d1;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #01579b;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> VaultofCodes Internships</h1>
+
+    <div class="card">
+        <h2> Web Development Internship Program</h2>
+        <p> Duration: 1 month/2months</p>
+        <p> Location: Virtual</p>
+        <p> Stipend: None</p>
+        <p> Start date: 05/11/2023</p>
+        <a href="https://example.com" class="button"> View details</a>
+    </div>
+
+    <div class="card">
+        <h2> App Development Internship Program</h2>
+        <p> Duration: 1 month/2months</p>
+        <p> Location: Virtual</p>
+        <p> Stipend: None</p>
+        <p> Start date: 05/11/2023</p>
+        <a href="https://example.com" class="button"> View details</a>
+    </div>
+
+    <div class="card">
+        <h2> Python Programming Internship Program</h2>
+        <p> Duration: 1 month/2months</p>
+        <p> Location: Virtual</p>
+        <p> Stipend: None</p>
+        <p> Start date: 05/11/2023</p>
+        <a href="https://example.com" class="button"> View details</a>
+    </div>
+
+    <div class="card">
+        <h2> Java Programming Internship Program</h2>
+        <p> Duration: 1 month/2months</p>
+        <p> Location: Virtual</p>
+        <p> Stipend: None</p>
+        <p> Start date: 05/11/2023</p>
+        <a href="https://example.com" class="button"> View details</a>
+    </div>
+
+</body>
+
+</html>
