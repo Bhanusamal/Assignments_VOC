@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bhanuteja Samal - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+
+        section {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            color: #2980b9;
+            margin-top: 15px;
+        }
+
+        ul, ol {
+            padding-left: 20px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        @media screen and (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            section {
+                padding: 15px;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- Main Heading -->
+    <h1>Bhanuteja Naresh Samal</h1>
+
+    <!-- About Me Section -->
+    <section>
+        <div>
+            <h2>About Me</h2>
+        </div>
+        <p>
+            I am a B.E. Computer Science student with a passion for full stack web development.
+            I enjoy creating clean, functional, and user-friendly websites and applications.
+            My curiosity and dedication push me to constantly learn and improve my skills.
+        </p>
+    </section>
+
+    <!-- Skills and Interests -->
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>C, C++, Python</li>
+            <li>Responsive Web Design</li>
+        </ul>
+
+        <h2>Interests</h2>
+        <ol>
+            <li>Web Development</li>
+            <li>AI & Machine Learning</li>
+            <li>Problem Solving</li>
+        </ol>
+    </section>
+
+    <!-- Projects Section -->
+    <section>
+        <h2>Projects</h2>
+        <h3>Portfolio Website</h3>
+        <p>A responsive personal portfolio showcasing my skills, projects, and achievements.</p>
+        <a href="#" target="_blank">View Project</a>
+
+        <h3>Library Management System</h3>
+        <p>A Python-based system to manage books, track borrowings, and manage members.</p>
+        <a href="#" target="_blank">View Project</a>
+    </section>
+
+    <!-- Contact Information -->
+    <section>
+        <h2>Contact Information</h2>
+        <p>Phone: <a href="9022220774">9022220774</a></p>
+        <p>Email: <a href="mailto:bhanusamal11@gmail.com">bhanusamal11@gmail.com</a></p>
+        <p>
+            <a href="https://www.linkedin.com/in/bhanuteja-samal-613331290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B086ua3hR8iZK0tTBgOvqQ%3D%3D"
+                target="_blank">LinkedIn</a> |
+            <a href="https://github.com/Bhanusamal/Bhanusamal" target="_blank">GitHub</a>
+        </p>
+    </section>
+</body>
+
+</html>
