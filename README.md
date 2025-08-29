@@ -1,1 +1,1 @@
-The following are the assignments of my first Internship conducted by vault of Codes.
+The following are the assignments of my Internship conducted by Vault of Codes.
